@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Nikola Brežnjak</h1>
-<h3 align="center">I’m an engineer at heart and a jack of all trades kind of guy, currently working as a director of engineering @Teltech</h3>
+<h3 align="center">I’m an engineer at heart and a jack of all trades kind of guy, currently working as a director of engineering at <a href="https://teltech.co">Teltech</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitman666&label=Profile%20views&color=0e75b6&style=flat" alt="hitman666" /> </p>
 
