@@ -44,6 +44,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to 'make it' as a remote developer?](https://dev.to/nikola/how-to-make-it-as-a-remote-developer-4bii)
+- [Book club in our engineering team – Stealing Fire](https://dev.to/nikola/book-club-in-our-engineering-team-stealing-fire-9id)
+- [Too many books, not enough time](https://dev.to/nikola/too-many-books-too-little-time-1df1)
+- [Book club in our engineering team – Pragmatic Programmer](https://dev.to/nikola/book-club-in-our-engineering-team-pragmatic-programmer-3a53)
+- [Book club in our engineering team - It doesn't have to be crazy at work](https://dev.to/nikola/book-club-in-our-engineering-team-it-doesn-t-have-to-be-crazy-at-work-5f71)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
