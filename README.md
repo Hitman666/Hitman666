@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to 'make it' as a remote developer?](https://dev.to/nikola/how-to-make-it-as-a-remote-developer-4bii)
-- [Book club in our engineering team – Stealing Fire](https://dev.to/nikola/book-club-in-our-engineering-team-stealing-fire-9id)
-- [Too many books, not enough time](https://dev.to/nikola/too-many-books-too-little-time-1df1)
-- [Book club in our engineering team – Pragmatic Programmer](https://dev.to/nikola/book-club-in-our-engineering-team-pragmatic-programmer-3a53)
-- [Book club in our engineering team - It doesn't have to be crazy at work](https://dev.to/nikola/book-club-in-our-engineering-team-it-doesn-t-have-to-be-crazy-at-work-5f71)
+- [Espanso: Because Who Actually Likes Typing Out Their Emails?](https://dev.to/nikola/espanso-because-who-actually-likes-typing-out-their-emails-3mpa)
+- [Getting started with Vue.js 3 by building a Pokemon search application](https://dev.to/nikola/getting-started-with-vuejs-3-by-building-a-pokemon-search-application-1afn)
+- [Solving the &#39;Retry as Admin&#39; while saving files in Visual Studio Code on a Mac](https://dev.to/nikola/solving-the-retry-as-admin-while-saving-files-in-visual-studio-code-on-a-mac-12i1)
+- [Cybersecurity Alert: The New Phishing Scam Hitting OpenSea Users](https://dev.to/nikola/cybersecurity-alert-the-new-phishing-scam-hitting-opensea-users-273l)
+- [This is How Your Parents Used CSS and JavaScript](https://dev.to/nikola/this-is-how-your-parents-used-css-and-javascript-b8p)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
