@@ -31,14 +31,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Espanso: Because Who Actually Likes Typing Out Their Emails?](https://dev.to/nikola/espanso-because-who-actually-likes-typing-out-their-emails-3mpa)
 - [Getting started with Vue.js 3 by building a Pokemon search application](https://dev.to/nikola/getting-started-with-vuejs-3-by-building-a-pokemon-search-application-1afn)
-- [After writing 300 posts, this is why I think you should start blogging too](http://www.nikola-breznjak.com/blog/miscellaneou/writing-300-posts-think-start-blogging/)
-- [The math behind reading 30 books per year](http://www.nikola-breznjak.com/blog/books/math-behind-reading-30-books-per-year/)
-- [How to ‘make it’ as a remote developer?](http://www.nikola-breznjak.com/blog/miscellaneou/make-remote-developer/)
-- [If you want to improve, read these books](https://nikola-breznjak.com/blog/books/want-improve-read-books/)
-- [Git branching done right with Gitflow & improving code quality with code reviews](https://nikola-breznjak.com/blog/miscellaneou/git-branching-done-right-gitflow-improving-code-quality-code-reviews/)
+- [Solving the &#39;Retry as Admin&#39; while saving files in Visual Studio Code on a Mac](https://dev.to/nikola/solving-the-retry-as-admin-while-saving-files-in-visual-studio-code-on-a-mac-12i1)
+- [Cybersecurity Alert: The New Phishing Scam Hitting OpenSea Users](https://dev.to/nikola/cybersecurity-alert-the-new-phishing-scam-hitting-opensea-users-273l)
+- [This is How Your Parents Used CSS and JavaScript](https://dev.to/nikola/this-is-how-your-parents-used-css-and-javascript-b8p)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
