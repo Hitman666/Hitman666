@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nikola Brežnjak
 
-### I’m an engineer at heart and a jack of all trades kind of guy, currently working as an engineering leader at [Microblink](https://microblink.com/).
+### I’m an engineer at heart and a jack of all trades kind of guy, currently working as VP of engineering at [Nomorobo](https://www.nomorobo.com/) where we work on stopping annoying robocalls and spam texts forever.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitman666&label=Profile%20views&color=0e75b6&style=flat" alt="hitman666" /> </p>
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/hitmanhr" target="blank"><img src="https://img.shields.io/twitter/follow/hitmanhr?logo=twitter&style=for-the-badge" alt="hitmanhr" /></a> </p>
 
-- 🔭 I’m currently working on [building the best team](https://microblink.com/)
+- 🔭 I’m currently working on [building the best team](https://www.nomorobo.com/)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning Laravel
 
 - 💪 Top 3% overall on [StackOverflow](https://stackoverflow.com/users/534755/nikola)
 
