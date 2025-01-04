@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nikola Brežnjak
 
-### I’m an engineer at heart and a jack of all trades kind of guy, currently working as VP of engineering at [Nomorobo](https://www.nomorobo.com/) where we work on stopping annoying robocalls and spam texts forever.
+### I’m an engineer at heart and a jack of all trades kind of guy, currently working as VP of engineering at [Nomorobo](https://www.nomorobo.com/) where we work on stopping annoying robocalls and spam texts.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitman666&label=Profile%20views&color=0e75b6&style=flat" alt="hitman666" /> </p>
 
